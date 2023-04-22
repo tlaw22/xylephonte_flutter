@@ -14,6 +14,7 @@ dependencies:
   english_words: ^4.0.0
   audiofileplayer: ^2.1.1
   fileaudioplayer: ^1.0.0
+  audioplayers: ^4.0.1
   # Use Audioplayers dependency version 0.17.4
 
 dev_dependencies:
